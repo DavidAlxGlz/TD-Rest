@@ -1,4 +1,5 @@
-# TD-Rest
+# TD-Rest 
+API REST POST,PUT,DELETE,GET.
 
 ## Available Scripts
 
@@ -7,4 +8,5 @@ Load composer requirements
 
 ### `php -S localhost:8000 -t public`
 Run server on port 8000
+
 
